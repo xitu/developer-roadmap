@@ -120,6 +120,8 @@ GOPATH
 
 ### 变量
 
+[2.2 Go语言从入门到精通：Go语言变量](https://juejin.cn/post/6934274751128928263)
+
 [Golang环境变量设置详解](https://juejin.cn/post/6844903817071296525)
 
 [Go初始化变量的招式](https://juejin.cn/post/6844903613005824008)
