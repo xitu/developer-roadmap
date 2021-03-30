@@ -80,6 +80,16 @@ GOPATH
 
 [Go 包管理工具 govendor 使用指南](https://juejin.cn/post/6844903759886155790)
 
+[go1.16新特性-embed包｜Go主题月](https://juejin.cn/post/6943880132088037412)
+
+[go包embed的基本使用｜Go主题月](https://juejin.cn/post/6944150836167573541)
+
+[go标准库net/smtp｜Go主题月](https://juejin.cn/post/6943061337891143694)
+
+[net/smtp包的使用](https://juejin.cn/post/6943398992310960141)
+
+[go标准库io｜Go主题月](https://juejin.cn/post/6943796040755576869)
+
 
 ### 第三方包
 
@@ -384,6 +394,8 @@ Go之[]byte字节数组与string字符串相互转换<https://juejin.cn/post/684
 
 [如何在Go中使用切片容量和长度](https://juejin.cn/post/6844903998734991368)
 
+[【图】图解go切片｜Go主题月](https://juejin.cn/post/6945221073008853023)
+
 
 #### 切片就像引用的数组
 
@@ -449,8 +461,7 @@ for循环的range形式可遍历切片或映射。
 - 指针接收者
 - 方法与指针重定向
 - 选择值或指针作为接收者
-
-
+  - [go的接收器什么时候该用指针？｜Go主题月](https://juejin.cn/post/6944252157981884446)
 
 ### 接口
 
@@ -533,6 +544,8 @@ for循环的range形式可遍历切片或映射。
 [深入理解Golang之channel](https://juejin.cn/post/6844904016254599176）
 
 [ Golang调度器的GMP模型](https://juejin.cn/post/6879589946982662158)
+
+[go并发奥秘：GMP模型｜Go主题月](https://juejin.cn/post/6944925506340913188)
 
 #### 原子性、可见性、有序性
 
