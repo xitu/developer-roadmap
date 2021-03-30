@@ -1,4 +1,3 @@
-[终版1.0.png]</Users/Github/yaqian/developer-roadmap/Roadmap_picture>
 
 # 一、Go语言的起源、发展以及普及
 
