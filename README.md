@@ -603,6 +603,21 @@ for循环的range形式可遍历切片或映射。
 
 [golang 使用pprof和go-torch做性能分析](https://juejin.cn/post/6844903798373089287)
 
-
 # 十二、问题排查
 # 十三、Golang面试
+# 十四、Javaer转型Go开发
+[慢聊Go之Javaer转型｜Go主题月](https://juejin.cn/post/6942449579648368654)
+
+[慢聊Go之GoVSJava之简单对比｜Go主题月](https://juejin.cn/post/6942830878062182431)
+
+[慢聊Go之GoVSJava之微观比较(1)｜Go主题月](https://juejin.cn/post/6943146626999386142)
+
+[慢聊Go之Go常见的Web 开发框架｜Go主题月](https://juejin.cn/post/6943568184016535566)
+
+[慢聊Go之Go垃圾回收演进中的给力算法之三色标记｜Go主题月](https://juejin.cn/post/6943981324256411656)
+
+[慢聊Go之JSON在Go语言中的道法术｜Go主题月](https://juejin.cn/post/6944321718089416734)
+
+[慢聊Go之JSON编码解码中的道法术｜Go主题月](https://juejin.cn/post/6944701759457591303)
+
+[慢聊Go之GoVSJava之微观比较（2）｜Go主题月](https://juejin.cn/post/6945048978098487333)
