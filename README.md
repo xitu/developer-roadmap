@@ -79,7 +79,18 @@ GOPATH
 
 [Go 包管理工具 govendor 使用指南](https://juejin.cn/post/6844903759886155790)
 
+[Go语言的包管理](https://juejin.cn/post/6945075617213874189)
+
+[3.1 Go语言从入门到精通：包 ](https://juejin.cn/post/6943557421591871502)
+
+[3.2 Go语言从入门到精通：包管理工具之GOPATH](https://juejin.cn/post/6945069375745425415)
+
+[3.3 Go语言从入门到精通：包管理工具之Govendor](https://juejin.cn/post/6946021372824911880)
+
+[3.4 Go语言从入门到精通：包管理工具之Go module](https://juejin.cn/post/6946439030774956039)
+
 ### 1.2 第三方包
+
 
 
 ### 1.3 导入语句
@@ -131,6 +142,8 @@ GOPATH
 ## 3. 变量
 
 ### 3.1 变量简介
+
+[2.2 Go语言从入门到精通：Go语言变量](https://juejin.cn/post/6934274751128928263)
 
 [Golang环境变量设置详解](https://juejin.cn/post/6844903817071296525)
 
