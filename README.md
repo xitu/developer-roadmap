@@ -79,7 +79,6 @@ GOPATH
 
 [Go 包管理工具 govendor 使用指南](https://juejin.cn/post/6844903759886155790)
 
-
 [Go语言的包管理](https://juejin.cn/post/6945075617213874189)
 
 [3.1 Go语言从入门到精通：包 ](https://juejin.cn/post/6943557421591871502)
@@ -90,7 +89,6 @@ GOPATH
 
 [3.4 Go语言从入门到精通：包管理工具之Go module](https://juejin.cn/post/6946439030774956039)
 
-=======
 ### 1.2 第三方包
 
 
