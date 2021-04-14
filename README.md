@@ -63,6 +63,11 @@ GOPATH
 
 ## Go源码发布
 
+## Go部署
+
+### shell脚本
+
+[如何优雅的通过Shell脚本一键部署GO项目到服务器 ｜Go主题月](https://juejin.cn/post/6943843305750970399)
 
 
 # 三、包、变量、函数
@@ -78,6 +83,8 @@ GOPATH
 [Go 语言闭包详解](https://juejin.cn/post/6844903793771937805)
 
 [Go 包管理工具 govendor 使用指南](https://juejin.cn/post/6844903759886155790)
+
+[Go语言json包的使用技巧 ｜Go主题月](https://juejin.cn/post/6945023713930641445/)
 
 
 ### 第三方包
@@ -179,7 +186,6 @@ GOPATH
 [golang面试题：能说说uintptr和unsafe.Pointer的区别吗？](https://juejin.cn/post/6844904178280562701)
 
 [Golang中MulUintptr实现原理](https://juejin.cn/post/6886045069149732877)
-
 
 
 #### byte // uint8 的别名
@@ -527,6 +533,8 @@ for循环的range形式可遍历切片或映射。
 
 [深入理解Golang之channel](https://juejin.cn/post/6844904016254599176)
 
+[什么时候用goroutine？什么时候用channel？ ｜Go主题月](https://juejin.cn/post/6943952470993272845)
+
 #### GMP模型
 
 [深入理解Golang之channel](https://juejin.cn/post/6844904016254599176）
@@ -580,6 +588,13 @@ for循环的range形式可遍历切片或映射。
 ### Martini
 
 ### Gin Gonic
+[Go gin框架封装中间件之1：用户角色权限管理中间件 ｜Go主题月](https://juejin.cn/post/6943147832937447431)
+
+[Go gin框架封装中间件之2：操作日志中间件 ｜Go主题月](https://juejin.cn/post/6943503384729583652)
+
+[Go GORM是时候升级新版本了 2.0新特性介绍（1） ｜Go主题月](https://juejin.cn/post/6945404499850854408)
+
+[Go GORM是时候升级新版本了 2.0新特性介绍（2）| Go主题月](https://juejin.cn/post/6946012224573931528)
 
 ### Buffalo
 
@@ -600,6 +615,7 @@ for循环的range形式可遍历切片或映射。
 ### go-zero
 
 ### gRPC
+[Go RPC入门指南1：RPC的使用边界在哪里？如何实现跨语言调用？| Go 主题月](https://juejin.cn/post/6946452659159171102)
 
 
 
@@ -615,6 +631,9 @@ for循环的range形式可遍历切片或映射。
 
 [golang 使用pprof和go-torch做性能分析](https://juejin.cn/post/6844903798373089287)
 
+[Go开发web必懂的概念和底层原理，通过对比的方式让大家更好的理解 | Go主题月](https://juejin.cn/post/6950954283068031012)
+
+[多维度思考：如何提高项目的开发时间、提高安全性、提高运行速度，从多个维度带来的一些思考。 | Go主题月](https://juejin.cn/post/6950959850994008094)
 
 
 # 八、问题排查
@@ -622,4 +641,8 @@ for循环的range形式可遍历切片或映射。
 
 
 # 九、Golang面试
+
+[进程 线程 协程 各自的概念以及三者的对比分析 | Go主题月](https://juejin.cn/post/6950952506176471071)
+
+
 
